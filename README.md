@@ -37,7 +37,7 @@ ResultatsAudit.csv → résultats générés
 
 Les chemins sont actuellement absolus (I:\Session3\Script\tp2\).
 Pour exécuter le projet sur une autre machine, il faut adapter les chemins dans le script et placer les fichiers CSV et
-mettre les  scripts secondaires au bon endroit.
+mettre les scripts secondaires au bon endroit.
 
 
 
